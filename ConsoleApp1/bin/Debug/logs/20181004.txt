@@ -1,0 +1,10 @@
+DATE: 20181004 05:10:05 | MESSAGE: Intento de dividir por cero. | SOURCE: ConsoleApp1 | STACKTRACE:    en ConsoleApp1.Program.Main(String[] args) en C:\Users\bflores\source\repos\ExtensionMethods\ConsoleApp1\Program.cs:línea 16
+DATE: 20181004 05:17:13 | MESSAGE: La cadena de entrada no tiene el formato correcto. | SOURCE: mscorlib | STACKTRACE:    en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.Int32.Parse(String s)
+   en ConsoleApp1.Program.Main(String[] args) en C:\Users\bflores\source\repos\ExtensionMethods\ConsoleApp1\Program.cs:línea 15
+DATE: 20181004 05:17:41 | MESSAGE: La cadena de entrada no tiene el formato correcto. | SOURCE: mscorlib | STACKTRACE:    en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.Int32.Parse(String s)
+   en ConsoleApp1.Program.Main(String[] args) en C:\Users\bflores\source\repos\ExtensionMethods\ConsoleApp1\Program.cs:línea 15
+DATE: 20181004 05:40:00 | MESSAGE: Intento de dividir por cero. | SOURCE: ConsoleApp1 | STACKTRACE:    en ConsoleApp1.Program.Main(String[] args) en C:\Users\bflores\source\repos\ExtensionMethods\ConsoleApp1\Program.cs:línea 17

@@ -1,0 +1,10 @@
+C:\Users\bflores\source\repos\ExtensionMethods\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\bflores\source\repos\ExtensionMethods\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\bflores\source\repos\ExtensionMethods\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\bflores\source\repos\ExtensionMethods\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\bflores\source\repos\ExtensionMethods\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\bflores\source\repos\ExtensionMethods\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\bflores\source\repos\ExtensionMethods\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\bflores\source\repos\ExtensionMethods\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\bflores\source\repos\ExtensionMethods\ConsoleApp1\bin\Debug\ExceptionClassExt.dll
+C:\Users\bflores\source\repos\ExtensionMethods\ConsoleApp1\bin\Debug\ExceptionClassExt.pdb

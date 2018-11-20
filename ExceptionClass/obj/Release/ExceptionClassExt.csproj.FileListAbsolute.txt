@@ -1,0 +1,6 @@
+C:\Users\bflores\source\repos\ExtensionMethods\ExceptionClass\bin\Release\ExceptionClassExt.dll
+C:\Users\bflores\source\repos\ExtensionMethods\ExceptionClass\bin\Release\ExceptionClassExt.pdb
+C:\Users\bflores\source\repos\ExtensionMethods\ExceptionClass\obj\Release\ExceptionClassExt.csproj.CoreCompileInputs.cache
+C:\Users\bflores\source\repos\ExtensionMethods\ExceptionClass\obj\Release\ExceptionClassExt.dll
+C:\Users\bflores\source\repos\ExtensionMethods\ExceptionClass\obj\Release\ExceptionClassExt.pdb
+C:\Users\bflores\source\repos\ExtensionMethods\ExceptionClass\obj\Release\ExceptionClassExt.csprojAssemblyReference.cache
